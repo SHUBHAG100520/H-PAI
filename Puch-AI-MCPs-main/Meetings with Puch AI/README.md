@@ -183,7 +183,7 @@ Example Commands:
 
 **User Authorization**
 ![IMG_3605](https://github.com/user-attachments/assets/0a131c0d-e326-4022-bbd4-3caf0b439a38)
-![IMG_3606](https://github.com/user-attachments/assets/e885d4b4-bb57-4abe-8118-70ea8d426095)
+
 ![IMG_3607](https://github.com/user-attachments/assets/68759fda-e07b-4e25-8de3-f88c50b0e355)
 
 
