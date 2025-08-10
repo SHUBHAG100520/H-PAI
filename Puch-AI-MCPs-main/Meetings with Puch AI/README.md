@@ -179,8 +179,7 @@ Example Commands:
 
 ### Screenshots
 
-**Puch AI**
-![IMG_3604](https://github.com/user-attachments/assets/21b582c1-346b-4d72-82ba-4a5548c4fdde)
+
 
 **User Authorization**
 ![IMG_3605](https://github.com/user-attachments/assets/0a131c0d-e326-4022-bbd4-3caf0b439a38)
