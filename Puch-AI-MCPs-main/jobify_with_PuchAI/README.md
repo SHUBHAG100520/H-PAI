@@ -185,5 +185,5 @@ Enjoy your automated job application assistant!
 
 <img width="949" alt="Screenshot 2025-06-18 at 2 15 54 PM" src="https://github.com/user-attachments/assets/c756ca4a-a90c-4503-bf17-b521304282ba" />
 <img width="949" alt="Screenshot 2025-06-18 at 2 22 04 PM" src="https://github.com/user-attachments/assets/5f55ab75-8156-4875-adf7-83c27a4a2823" />
-<img width="992" alt="Screenshot 2025-06-18 at 2 24 48 PM" src="https://github.com/user-attachments/assets/8b06d568-b06f-42bc-8d3f-3bff00be4d4e" />
+
 
